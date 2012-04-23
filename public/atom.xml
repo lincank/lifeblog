@@ -4,7 +4,7 @@
   <title><![CDATA[Guimin's Blog]]></title>
   <link href="http://life.lincank.info/atom.xml" rel="self"/>
   <link href="http://life.lincank.info/"/>
-  <updated>2012-04-24T00:28:06+08:00</updated>
+  <updated>2012-04-24T01:15:28+08:00</updated>
   <id>http://life.lincank.info/</id>
   <author>
     <name><![CDATA[Guimin Lin/林桂民]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[博客新开张]]></title>
+    <link href="http://life.lincank.info/blog/2012/04/24/bo-ke-xin-kai-zhang/"/>
+    <updated>2012-04-24T00:59:00+08:00</updated>
+    <id>http://life.lincank.info/blog/2012/04/24/bo-ke-xin-kai-zhang</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
