@@ -4,7 +4,7 @@
 
 url: http://life.lincank.info
 title: Guimin's Blog
-subtitle: A blogging framework for hackers.
+subtitle: It is good if you know what you are heading for ...
 author: Guimin Lin/林桂民
 simple_search: http://google.com/search
 description:
@@ -97,3 +97,11 @@ google_analytics_tracking_id: UA-27030751-4
 
 # Facebook Like
 facebook_like: true
+
+#### Weibo ####
+weibo_uid: 1043677500
+weibo_verifier: 7815e688
+weibo_fansline: 0   # 粉丝显示多少行
+weibo_show: true    # 是否显示最近微博内容
+weibo_pic: true     # 是否显示微博中的图片
+weibo_skin: 10      # 使用哪种配色风格，数字为从1开始的微博秀风格序号
