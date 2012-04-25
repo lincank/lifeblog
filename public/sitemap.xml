@@ -1,15 +1,89 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>
+            http://life.lincank.info/blog/2006/08/29/ku-shuang-xia-ri-%7E%7Echang-yin-chang-ying/
+        </loc>
+        <lastmod>2012-04-26T01:09:44+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2006/08/30/xiao-mei-sha-de-da-za-hui/</loc>
+        <lastmod>2012-04-26T00:53:39+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2006/08/31/fei-ban-de-jian-mian/</loc>
+        <lastmod>2012-04-26T00:58:19+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2006/09/06/chu-fa-qian-de-chang-xiang/</loc>
+        <lastmod>2012-04-26T01:00:09+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2006/09/09/wu-da-huan-xiang/</loc>
+        <lastmod>2012-04-26T01:01:50+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2006/09/27/xin-sheng-huo-de-kai-shi/</loc>
+        <lastmod>2012-04-26T01:04:30+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2006/10/31/da-xue-ti-yan/</loc>
+        <lastmod>2012-04-26T01:06:29+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2007/03/03/you-ge-han-jia-guo-qu-liao/</loc>
+        <lastmod>2012-04-26T01:14:19+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2007/05/21/how-time-flash/</loc>
+        <lastmod>2012-04-26T01:16:52+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2007/05/21/ambition/</loc>
+        <lastmod>2012-04-26T01:18:54+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2007/05/29/qing-chun/</loc>
+        <lastmod>2012-04-26T01:21:09+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2007/08/20/feng-kuang-de-mei-guo-ren/</loc>
+        <lastmod>2012-04-26T01:30:12+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2007/11/09/bei-dian-ming/</loc>
+        <lastmod>2012-04-26T01:34:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2008/01/28/ban-yue-tan/</loc>
+        <lastmod>2012-04-26T01:36:29+08:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://life.lincank.info/blog/2008/09/15/shi-zhen-de-dian-ying-bi-zhen-de-you-xi/
+        </loc>
+        <lastmod>2012-04-26T01:41:55+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://life.lincank.info/blog/2009/06/13/xie-gei-zi-ji-de/</loc>
+        <lastmod>2012-04-26T01:46:04+08:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://life.lincank.info/blog/2010/08/15/mei-guo-sheng-huo-at-carnegie-mellon-university/
+        </loc>
+        <lastmod>2012-04-26T01:55:44+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://life.lincank.info/blog/2012/04/24/bo-ke-xin-kai-zhang/</loc>
-        <lastmod>2012-04-24T00:59:34+08:00</lastmod>
+        <lastmod>2012-04-26T00:45:20+08:00</lastmod>
     </url>
     <url>
         <loc>http://life.lincank.info/blog/archives/</loc>
-        <lastmod>2012-04-24T00:59:34+08:00</lastmod>
+        <lastmod>2012-04-26T01:55:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://life.lincank.info/</loc>
-        <lastmod>2012-04-24T00:59:34+08:00</lastmod>
+        <lastmod>2012-04-26T01:55:44+08:00</lastmod>
     </url>
 </urlset>
